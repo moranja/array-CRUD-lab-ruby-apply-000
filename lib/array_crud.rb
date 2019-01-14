@@ -33,3 +33,16 @@ end
 def retrieve_last_element_from_array(array)
   array[-1]
 end
+
+def read_array(array)
+  puts array[0]
+  puts array[1]
+  puts array[2]
+  puts array[3]
+  puts array[4]
+  puts array[5]
+  puts array[6]
+  puts array[7]
+  puts array[8]
+  puts array[9]
+end
